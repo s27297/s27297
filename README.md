@@ -17,7 +17,32 @@
 ---
 
 ## 🛠️ Tech Stack
+Frontend
 
+JavaScript
+React
+Next.js
+HTML5
+CSS3
+Tailwind CSS
+
+Backend
+
+Java
+Spring Boot
+Node.js
+Express.js
+
+Databases
+
+SQL
+MySQL
+MongoDB
+
+Tools
+
+Git
+GitHub
 ---
 
 ## 📌 Featured Projects
@@ -49,6 +74,13 @@ A web application integrating a database of authors and publications with an adm
 🌐 https://spw.wbpg.org.pl/
 
 
+---
+
+## 🛠️ Tech Stack
+
+- Russian: native
+- English: B2+
+- Polish: C1
 ---
 
 ## 📫 Contact
