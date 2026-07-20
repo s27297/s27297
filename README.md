@@ -17,32 +17,21 @@
 ---
 
 ## 🛠️ Tech Stack
-Frontend
+- Frontend
 
-JavaScript
-React
-Next.js
-HTML5
-CSS3
-Tailwind CSS
+JavaScript, React, Next.js, HTML5, CSS3, Tailwind CSS
 
-Backend
+- Backend
 
-Java
-Spring Boot
-Node.js
-Express.js
+Java, Spring Boot, Node.js, Express.js
 
-Databases
+- Databases
 
-SQL
-MySQL
-MongoDB
+SQL, MySQL, MongoDB
 
-Tools
+-Tools
 
-Git
-GitHub
+Git, GitHub
 ---
 
 ## 📌 Featured Projects
